@@ -1,4 +1,4 @@
-# DAWE
+# DAWE: A Double Attention-Based Word Embedding Model with Sememe Structure Information
 ## How to Run
 
 Using the following command to train word-sense-sememe embeddings.
